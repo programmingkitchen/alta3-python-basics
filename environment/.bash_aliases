@@ -1,0 +1,5 @@
+alias go='cd ~/mycode'
+alias perm='chmod u+x *'
+alias st='cd ~/mycode; git status'
+alias ad='cd ~/mycode; git add *'
+alias psh='cd ~/mycode; git push origin main'

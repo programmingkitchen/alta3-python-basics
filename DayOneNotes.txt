@@ -1,0 +1,10 @@
+DAY ONE NOTES 
+6/28/21
+
+
+Note about the sep operator
+
+When you separate with the comma, 
+you automatically get one white space by default.
+
+Once you add the sep, that default white space goes away and you get whatever you put between the double quotes of the sep
