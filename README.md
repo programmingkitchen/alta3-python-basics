@@ -2,6 +2,16 @@
 
 ## Revisions
 
+7/4
+Clone and renamed new repo for better organization.
+programmingkitchen/alta3-python-basics
+
+```
+https://github.com/programmingkitchen/alta3-python-basics.git
+git@github.com:programmingkitchen/alta3-python-basics.git
+
+```
+
 6/30
 Welcome to Day 3
 
