@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Alta3 Research || Author: RZFeeser@alta3.com"""
+"""
+Alta3 Research || Author: RZFeeser@alta3.com
+This is the solution to #3
+
+
+"""
 
 import json
 
