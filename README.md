@@ -2,6 +2,9 @@
 
 ## Revisions
 
+7/7/21
+Cloned to the Alta3 K8s Env.
+
 7/4
 Clone and renamed new repo for better organization.
 programmingkitchen/alta3-python-basics
